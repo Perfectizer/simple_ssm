@@ -1,6 +1,9 @@
-A simple demo for subspace-based learning
+simple_ssm
 =====
 
 KW: classification, subspace
 
-Run `demo` in your matlab.
+A simple demo for subspace-based learning.
+
+Simple demo: `demo.m`
+Demo with tunning: `demo_experiment`
